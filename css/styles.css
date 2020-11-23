@@ -121,7 +121,7 @@ img {
   transition: all ease 0s;
 }
 @media (min-width: 600px) {
-  .header-nav {
+  .header-nav 
     line-height: 1.5rem;
   }
 
@@ -131,10 +131,10 @@ img {
   .nav-item {
     flex: 1 0 10%;
   }
-}
+
 
 @media (min-width: 900px) {
-  .header-nav {
+  .header-nav 
     justify-content: space-between;
     padding: 1rem 0;
     margin: 1rem auto 2rem auto;
@@ -145,7 +145,7 @@ img {
   .logo {
     margin: 0 0 0 0.3rem;
   }
-}
+
 
 .portfolio-page {
   padding: 0 1rem 10rem 1rem;
